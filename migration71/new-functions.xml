@@ -15,6 +15,52 @@
    </listitem>
   </itemizedlist>
  </sect2>
+
+ <sect2 xml:id="migration71.new-functions.curl">
+  <title><link linkend="book.curl">CURL</link></title>
+
+  <itemizedlist>
+   <listitem>
+    <simpara>
+     <function>curl_multi_errno</function>
+    </simpara>
+   </listitem>
+   <listitem>
+    <simpara>
+     <function>curl_share_errno</function>
+    </simpara>
+   </listitem>
+   <listitem>
+    <simpara>
+     <function>curl_share_strerror</function>
+    </simpara>
+   </listitem>
+  </itemizedlist>
+ </sect2>
+
+ <sect2 xml:id="migration71.new-functions.spl">
+  <title><link linkend="book.spl">SPL</link></title>
+
+  <itemizedlist>
+   <listitem>
+    <simpara>
+     <function>is_iterable</function>
+    </simpara>
+   </listitem>
+  </itemizedlist>
+ </sect2>
+
+ <sect2 xml:id="migration71.new-functions.pcntl">
+  <title><link linkend="book.pcntl">PCNTL</link></title>
+
+  <itemizedlist>
+   <listitem>
+    <simpara>
+     <function>pcntl_async_signals</function>
+    </simpara>
+   </listitem>
+  </itemizedlist>
+ </sect2>
 </sect1>
 
 <!-- Keep this comment at the end of the file
