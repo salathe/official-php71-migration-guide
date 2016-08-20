@@ -13,7 +13,7 @@
    operators (<literal>+</literal> <literal>-</literal> <literal>*</literal> 
    <literal>/</literal> <literal>**</literal> <literal>%</literal>
    <literal>&lt;&lt;</literal> <literal>&gt;&gt;</literal> <literal>|</literal>
-   <literal>&</literal> <literal>^</literal>). An <constant>E_NOTICE</constant>
+   <literal>&amp;</literal> <literal>^</literal>). An <constant>E_NOTICE</constant>
    is emitted when the string can be partially converted to a sensical numeric,
    and an <constant>E_WARNING</constant> is emitted when the string cannot be
    converted at all to a sensical numeric.

@@ -19,7 +19,7 @@
 
   <para>
    The <literal>e</literal> pattern modifier has been deprecated for the
-   <funciton>mb_ereg_replace</funciton> and
+   <function>mb_ereg_replace</function> and
    <function>mb_eregi_replace</function> functions.
   </para>
  </sect2>
